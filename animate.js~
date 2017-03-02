@@ -1,0 +1,9 @@
+var canvas = document.getElementById("canvas");
+var circle = document.getElementById("circle");
+var dvd = document.getElementById("dvd");
+var stop = document.getElementById("stop");
+var rid;
+
+//var drawcircle = function(r){
+//    var ins = document.createElementNS("http://www.w3.org/2000/svg","circle");
+//    ins.setAttribute("
